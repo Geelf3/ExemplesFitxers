@@ -1,0 +1,4 @@
+Uncaught java.lang.NullPointerException exception in thread "main" in a method Exemple5.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.NullPointerException
+	at Exemple5.urlToFile(Exemple5.java:61) [file:/home/Gerard/workspace/ExemplesStreams/bin/Exemple5.class]
+	at Exemple5.main(Exemple5.java:26) [file:/home/Gerard/workspace/ExemplesStreams/bin/Exemple5.class]

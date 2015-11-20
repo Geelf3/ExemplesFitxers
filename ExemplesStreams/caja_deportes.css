@@ -1,0 +1,16 @@
+.caja_deportes {border-width: 1px 1px 1px 1px;border-color: #ebebeb #ebebeb #ebebeb #ebebeb; margin-top:30px;}
+.caja_deportes h3{border-bottom: 1px solid #6CB644; border-top: 1px solid #6CB644; margin-top:-10px;  padding: 3px 0;}
+.caja_deportes h3 a, .caja_deportes h3 .sin_enlace{ background: url(http://ep01.epimg.net/iconos/v1.x/v1.4/cajas_libres/caja_deportes.png) no-repeat 10px center #6CB644;height: 38px;overflow: hidden;padding: 0;text-indent: -9000px;width: 100%; display:block;}
+.caja_deportes h3 a:hover{opacity:.8;filter: alpha(opacity=80);}
+.caja_deportes .apoyos ul li a{color:#6CB644;}
+
+
+.caja_deportes h3 a span, .caja_deportes h3 .sin_enlace span{font-weight:bold;}
+.caja_deportes h4 a {font-weight:normal;padding: 2px 0 2px 0;}
+
+#contenedor .caja_deportes h3 {height: 30px;}
+#contenedor .caja_deportes h3 span.bolillo{display: none;}
+#contenedor .columna_secundaria .caja_deportes h3{ padding-top: 3px;}
+
+:lang(pt-br) .caja_deportes h3 a, 
+:lang(pt-br) .caja_deportes h3 .sin_enlace{ background: url(http://ep01.epimg.net/iconos/v1.x/v1.4/cajas_libres/caja_esporte.png) no-repeat 10px center #6CB644;}

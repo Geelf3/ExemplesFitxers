@@ -1,0 +1,8 @@
+.caja_vodafoneOne { border-top-color:#e20917; }
+.caja_vodafoneOne h3 a, .caja_vodafoneOne h3 .sin_enlace{ background: url(/iconos/v1.x/v1.4/cajas_libres/caja_vodafoneOne.png) no-repeat 0 center;height: 40px;overflow: hidden;padding: 0;text-indent: -9000px;width: 100%; margin-top:1px; display:block;}
+.caja_vodafoneOne h3 a:hover{opacity:.7;filter: alpha(opacity=90);}
+.caja_vodafoneOne .apoyos ul li a{color:#e20917;}
+
+
+.caja_vodafoneOne h3 a span, .caja_vodafoneOne h3 .sin_enlace span{font-weight:bold;}
+.caja_vodafoneOne h4 a {font-weight:normal;padding: 2px 0 2px 0;}

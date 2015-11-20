@@ -1,0 +1,11 @@
+h1 + link + .caja_hogarcool{margin-top:10px;}
+.caja_hogarcool {border-width: 1px 1px 4px 1px; border-color: #ebebeb #ebebeb #ebebeb #ebebeb; margin-top:30px;}
+.caja_hogarcool h3 a, .caja_icon h3 .sin_enlace{ background: url(http://ep01.epimg.net/iconos/v1.x/v1.4/cajas_libres/caja_hogarcool.png) no-repeat center center #f5f5f5;height: 38px;overflow: hidden;padding: 0;text-indent: -9000px;width: 100%; margin-top:-10px; display:block;}
+.caja_hogarcool h3 a:hover{opacity:.8;filter: alpha(opacity=80);}
+.caja_hogarcool .apoyos ul li a{color:#168181;}
+
+.caja_hogarcool h3 a span, .caja_hogarcool h3 .sin_enlace span{font-weight:bold;}
+.caja_hogarcool h4 a {font-weight:normal;padding: 2px 0 2px 0;}
+
+#contenedor .caja_hogarcool h3 {border-top: none;}
+#contenedor .caja_hogarcool h3 a, #contenedor .caja_hogarcool h3 .sin_enlace{ width:100%;  background: url(http://ep01.epimg.net/iconos/v1.x/v1.4/cajas_libres/caja_hogarcool_movil.png) no-repeat top left; padding:0; height:38px;}

@@ -1,0 +1,28 @@
+.caja_jotdown {
+    border-color: #000;
+    border-width: 1px;
+    margin-top: 30px;
+}
+.caja_jotdown h3 a, .caja_jotdown h3 .sin_enlace {
+    background: #000 url("http://ep01.epimg.net/estaticos/2015/09/jotdown/jotdown_caja.png") no-repeat scroll center center;
+    display: block;
+    height: 38px;
+    margin-top: -10px;
+    overflow: hidden;
+    padding: 4px 0 0;
+    text-indent: -9000px;
+    width: 100%;
+}
+.caja_jotdown h3 a:hover {
+    opacity: 0.8;
+}
+.caja_jotdown .apoyos ul li a {
+    color: #000;
+}
+.caja_jotdown h3 a span, .caja_jotdown h3 .sin_enlace span {
+    font-weight: bold;
+}
+.caja_jotdown h4 a {
+    font-weight: normal;
+    padding: 2px 0;
+}

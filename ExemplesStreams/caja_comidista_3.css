@@ -1,0 +1,14 @@
+.caja_comidista {border-width: 1px 1px 1px 1px;border-color: #ebebeb #ebebeb #ebebeb #ebebeb;}
+.caja_comidista h3{border-bottom:none;}
+.caja_comidista h3 a, .caja_comidista h3 .sin_enlace{ background: url(http://ep01.epimg.net/estaticos/2015/06/comidista/caja_comidista.jpg) no-repeat center center;height: 42px;overflow: hidden;padding: 0;text-indent: -9000px;width: 100%; margin-top:9px; display:block;}
+.caja_comidista h3 a:hover{opacity:.8;filter: alpha(opacity=80);}
+.caja_comidista .apoyos ul li a{color:#03b282;}
+
+
+.caja_comidista h3 a span, .caja_comidista h3 .sin_enlace span{font-weight:bold;}
+.caja_comidista h4 a {font-weight:normal;padding: 2px 0 2px 0;}
+
+
+
+#contenedor .caja_comidista h3{ } 
+#contenedor .caja_comidista h3 a, #contenedor .caja_comidista h3 .sin_enlace{ background: url(http://ep01.epimg.net/estaticos/2015/06/comidista/caja_comidista_movil.jpg) no-repeat top left; width:100%; top:0;display:block;}

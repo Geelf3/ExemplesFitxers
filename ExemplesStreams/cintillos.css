@@ -1,0 +1,586 @@
+﻿
+/* ejemplo ELECCIONES GENERALES 2011 */
+
+.article .elecciones_generales_2011 .contenido a {width: 227px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_generales_2011.png);}
+.america_latina .article .elecciones_generales_2011 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_generales_2011_america_latina.png);}
+.destacada_satelites .article .elecciones_generales_2011 .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_generales_2011_satelites.png);}
+
+
+/* especial europa */
+
+.article .especial_europa .contenido a {height: 35px; background-image: url(/iconos/v1.x/v1.0/cintillos/cintillo_europa_560.png);}
+.columna_principal .destacada .especial_europa {height: 35px;}
+.division_columnas .columna_principal .destacada .especial_europa .contenido {margin-top: -1px;}
+#noticia .article .especial_europa .contenido a {width: 560px;}
+.article .especial_europa .contenido a {width: 418px;}
+.destacada_dos_columnas .secundaria .article .especial_europa .contenido a {width: 400px;}
+.caja .article .especial_europa .contenido a {width: 227px;}
+.america_latina .article .especial_europa .contenido a {width: 380px;}
+.caja .destacada .especial_europa .contenido a,
+.columna_secundaria .opinion .article .especial_europa .contenido a {width: 378px;}
+.destacada_satelites .article .especial_europa .contenido a {width: 140px;}
+
+/* EL AMPLIFICADOR */
+
+#noticia .article .el_amplificador .contenido a {width: 195px; height: 46px; background-image: url(/iconos/v1.x/v1.0/cintillos/el_amplificador_noticia.png);}
+#noticia .article .el_amplificador {margin-bottom: 5px;}
+.article .el_amplificador .contenido a {width: 148px; height: 35px; background-image: url(/iconos/v1.x/v1.0/cintillos/el_amplificador_secundarias.png);}
+.columna_tematica .article .el_amplificador .contenido a {width: 380px; background-image: url(/iconos/v1.x/v1.4/cintillos/el_amplificador_columna.png);}
+.columna_tematica .colgante .el_amplificador .contenido a, .columna_tematica .colgante.opinion .el_amplificador .contenido a {width: 360px;}
+.columna_tematica .opinion .el_amplificador .contenido a {width: 370px;}
+.destacada_satelites .article .el_amplificador .contenido a {width: 140px; height: 15px; background-image: url(/iconos/v1.x/v1.0/cintillos/el_amplificador_satelites.png);}
+.columna_principal .destacada .el_amplificador {height: auto;}
+.destacada_dos_columnas .principal .article:first-child .noticia.el_amplificador {height: 50px;}
+
+/* AUDIOMATON */
+
+#noticia .article .audiomaton .contenido a {width: 195px; height: 46px; background-image: url(/iconos/v1.x/v1.0/cintillos/audiomaton_noticia.png);}
+#noticia .article .audiomaton {margin-bottom: 5px;}
+.contenedor_super_destacada .article .audiomaton .contenido { margin-top: -11px }
+.division_columnas .columna_principal .destacada .audiomaton .contenido { margin-top: -14px }
+.article .audiomaton .contenido a {width: 148px; height: 25px; background-image: url(/iconos/v1.x/v1.0/cintillos/audiomaton_secundarias.png);}
+.columna_tematica .article .audiomaton .contenido a {width: 380px; background-image: url(/iconos/v1.x/v1.4/cintillos/audiomaton_columna.png); height: 35px;}
+.columna_tematica .colgante .audiomaton .contenido a, .columna_tematica .colgante.opinion .audiomaton .contenido a {width: 360px;}
+.columna_tematica .opinion .audiomaton .contenido a {width: 370px;}
+.destacada_satelites .article .audiomaton .contenido a {width: 140px; height: 15px; background-image: url(/iconos/v1.x/v1.0/cintillos/audiomaton_satelites.png);}
+
+
+/* BCN NEGRA */
+
+.article .bcn_negra .contenido a {width: 227px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/bcn-negra.png);}
+.ocio .article .bcn_negra .contenido a,
+.america_latina .article .bcn_negra .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/bcn-negra-columna.png);}
+.destacada_satelites .article .bcn_negra .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/bcn-negra-satelites.png);}
+.columna_tematica .article .bcn_negra .contenido a {width: 227px; background-image: url(/iconos/v1.x/v1.4/cintillos/bcn-negra-columna.png); height: 14px;}
+
+/* PREMIOS GOYA */
+
+.article .premios_goya .contenido a {width: 118px; height: 19px; background-image: url(/iconos/v1.x/v1.0/cintillos/premios-goya.png);}
+.ocio .article .premios_goya .contenido a,
+.america_latina .article .premios_goya .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/premios-goya-columna.png);}
+.destacada_satelites .article .premios_goya .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/premios-goya-satelites.png);}
+.columna_tematica .article .premios_goya .contenido a {width: 190px; background-image: url(/iconos/v1.x/v1.4/cintillos/premios-goya-columna.png); height: 19px;}
+
+/* ELECCIONES ANDALUZAS 2012 */
+
+.article .elecciones_andaluzas_2012 .contenido a {width: 205px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones-andaluzas-2012.png);}
+.ocio .article .elecciones_andaluzas_2012 .contenido a,
+.america_latina .article .elecciones_andaluzas_2012 .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/elecciones-andaluzas-2012-columna.png);}
+.destacada_satelites .article .elecciones_andaluzas_2012 .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones-andaluzas-2012-satelites.png);}
+.columna_tematica .article .elecciones_andaluzas_2012 .contenido a {width: 168px; background-image: url(/iconos/v1.x/v1.4/cintillos/elecciones-andaluzas-2012-columna.png); height: 14px;}
+
+/* ELECCIONES ASTURIAS 2012 */
+
+.article .elecciones_asturias_2012 .contenido a {width: 168px; height: 13px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_asturias_2012.png);}
+.columna_tematica .article .elecciones_asturias_2012 .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/elecciones_asturias_2012_columna.png);}
+.destacada_satelites .article .elecciones_asturias_2012 .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_asturias_2012_satelites.png);}
+
+/* NIMILEURISTA */
+
+.article .nimileurista .contenido a {width: 97px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/nimileurista.png);}
+.ocio .article .nimileurista .contenido a,
+.america_latina .article .nimileurista .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/nimileurista-columna.png);}
+.destacada_satelites .article .nimileurista .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/nimileurista-satelites.png);}
+.columna_tematica .article .nimileurista .contenido a {width: 168px; background-image: url(/iconos/v1.x/v1.4/cintillos/nimileurista-columna.png); height: 14px;}
+
+
+/* CINCO DÍAS */
+
+.article .cintillo_cincodias .contenido a {width: 131px; height: 20px; background: url(/iconos/v1.x/v1.4/cintillos/cincodias.png) no-repeat 0 4px;}
+.columna_principal .destacada .cintillo_cincodias .contenido a {width: 131px; height: 20px; background: url(/iconos/v1.x/v1.4/cintillos/cincodias.png) no-repeat 0 0px; margin-top: -5px;}
+.contenedor_super_destacada .article .cintillo_cincodias .contenido {  margin-top: -15px;} 
+.destacada_satelites .article .cintillo_cincodias .contenido a {width: 140px; height: 17px; background-image: url(/iconos/v1.x/v1.4/cintillos/cincodias_satelites.png);}
+.columna_tematica .article .cintillo_cincodias .contenido a {width: 168px; background-image: url(/iconos/v1.x/v1.4/cintillos/cincodias_columna.png); margin-top: 1px; height: 24px;}
+
+
+/* LOS RECORTES EN LA CULTURA */
+
+.article .cultura_recortes .contenido a {width: 177px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes.png);}
+.ocio .article .cultura_recortes .contenido a,
+.america_latina .article .cultura_recortes .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-columna.png);}
+.destacada_satelites .article .cultura_recortes .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes-satelites.png);}
+.columna_tematica .article .cultura_recortes .contenido a {width: 177px; background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-columna.png); height: 14px;}
+
+
+/* LOS RECORTES EN LA CULTURA, LA MÚSICA */
+
+.article .cultura_recortes_musica .contenido a {width: 227px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes-musica.png);}
+.ocio .article .cultura_recortes_musica .contenido a,
+.america_latina .article .cultura_recortes_musica .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-musica-columna.png);}
+.destacada_satelites .article .cultura_recortes_musica .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes-musica-satelites.png);}
+.columna_tematica .article .cultura_recortes_musica .contenido a {width: 227px; background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-musica-columna.png); height: 14px;}
+
+
+/* LOS RECORTES EN LA CULTURA, EL LIBRO */
+
+.article .cultura_recortes_libro .contenido a {width: 227px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes-libro.png);}
+.ocio .article .cultura_recortes_libro .contenido a,
+.america_latina .article .cultura_recortes_libro .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-libro-columna.png);}
+.destacada_satelites .article .cultura_recortes_libro .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes-libro-satelites.png);}
+.columna_tematica .article .cultura_recortes_libro .contenido a {width: 227px; background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-libro-columna.png); height: 14px;}
+
+
+/* LOS RECORTES EN LA CULTURA, EL TEATRO */
+
+.article .cultura_recortes_teatro .contenido a {width: 227px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes-teatro.png);}
+.ocio .article .cultura_recortes_teatro .contenido a,
+.america_latina .article .cultura_recortes_teatro .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-teatro-columna.png);}
+.destacada_satelites .article .cultura_recortes_teatro .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes-teatro-satelites.png);}
+.columna_tematica .article .cultura_recortes_teatro .contenido a {width: 227px; background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-teatro-columna.png); height: 14px;}
+
+
+/* LOS RECORTES EN LA CULTURA, EL CINE */
+
+.article .cultura_recortes_cine .contenido a {width: 227px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes-cine.png);}
+.ocio .article .cultura_recortes_cine .contenido a,
+.america_latina .article .cultura_recortes_cine .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-cine-columna.png);}
+.destacada_satelites .article .cultura_recortes_cine .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/cultura-recortes-cine-satelites.png);}
+.columna_tematica .article .cultura_recortes_cine .contenido a {width: 227px; background-image: url(/iconos/v1.x/v1.4/cintillos/cultura-recortes-cine-columna.png); height: 14px;}
+
+
+/* EUROCOPA */
+
+.article .eurocopa .contenido a {width: 147px; height: 17px; background-image: url(/iconos/v1.x/v1.0/cintillos/eurocopa.png);}
+.ocio .article .eurocopa .contenido a,
+.america_latina .article .eurocopa .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/eurocopa-columna.png); width: 124px; height: 14px}
+.destacada_satelites .article .eurocopa .contenido a {width: 124px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/eurocopa-satelites.png);}
+.columna_tematica .article .eurocopa .contenido a {width: 168px; background-image: url(/iconos/v1.x/v1.4/cintillos/eurocopa-columna.png); height: 14px;}
+
+/* ELECCIONES MEXICO 2011 */
+
+.article .elecciones_mexico_2012 .contenido a {width: 227px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_mexico_2012.png);}
+.america_latina .article .elecciones_mexico_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_mexico_2012_america_latina.png);}
+.destacada_satelites .article .elecciones_mexico_2012 .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_mexico_2012_satelites.png);}
+
+/* GUERRA DE SERIES */
+
+.article .guerra_de_series .contenido a {width: 162px; height: 14px; background-image: url(/iconos/v1.x/v1.0/cintillos/guerra_de_series.png);}
+.ocio .article .guerra_de_series .contenido a,
+.america_latina .article .guerra_de_series .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/guerra_de_series_columna.png);}
+.destacada_satelites .article .guerra_de_series .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/guerra_de_series_satelites.png);}
+.columna_tematica .article .guerra_de_series .contenido a {width: 138px; background-image: url(/iconos/v1.x/v1.4/cintillos/guerra_de_series_columna.png); height: 14px;}
+
+/* Lonely Planet */
+.envoltorio_destacadas_3_col .caja .cintillo_lonely_planet { border-top:1px solid #012F75;}
+.envoltorio_destacadas_3_col .apertura_foto .cintillo_lonely_planet { padding:0; background:none; border-top: none; left:50%; top:auto; bottom:115px; margin-left:-40px; }
+.envoltorio_destacadas_3_col .apertura_foto_listado .cintillo_lonely_planet, .envoltorio_destacadas_3_col .apertura_listado_foto .cintillo_lonely_planet { padding:0; background:none; border-top: none; left:50%; top:auto; bottom:101px; margin-left:-40px; }
+.envoltorio_destacadas_3_col .article .cintillo_lonely_planet .contenido { padding:0; }
+.envoltorio_destacadas_3_col .article .cintillo_lonely_planet .contenido a { width: 80px; height: 34px; background-image: url(/elviajero/iconos/v1.x/v1.0/cintillos/lonely_planet_grafico.png); }
+#portada .envoltorio_destacadas_3_col .article .cintillo_lonely_planet .contenido a:hover { opacity: 1; filter: alpha(opacity=100); }
+#portada .columna_principal .article .cintillo_lonely_planet { position:absolute; left:0; top:0; z-index:1000; }
+#portada .columna_principal .article .cintillo_lonely_planet .contenido a {width: 72px; height: 34px; background: url(/elviajero/iconos/v1.x/v1.0/cintillos/lonely-planet.jpg) no-repeat 0 4px;}
+
+/* Monocle */
+.envoltorio_destacadas_3_col .caja .cintillo_monocle { border-top:1px solid #012F75;}
+.envoltorio_destacadas_3_col .apertura_foto .cintillo_monocle { padding:0; background:none; border-top: none; left:50%; top:auto; bottom:115px; margin-left:-40px; }
+.envoltorio_destacadas_3_col .apertura_foto_listado .cintillo_monocle, .envoltorio_destacadas_3_col .apertura_listado_foto .cintillo_lonely_planet { padding:0; background:none; border-top: none; left:50%; top:auto; bottom:101px; margin-left:-58px; }
+.envoltorio_destacadas_3_col .article .cintillo_monocle .contenido { padding:0; }
+.envoltorio_destacadas_3_col .article .cintillo_monocle .contenido a { width: 117px; height: 30px; background-image: url(/elviajero/iconos/v1.x/v1.0/cintillos/monocle_grafico.png); }
+#portada .envoltorio_destacadas_3_col .article .cintillo_monocle .contenido a:hover { opacity: 1; filter: alpha(opacity=100); }
+#portada .columna_principal .article .cintillo_monocle { position:absolute; left:0; top:0; z-index:1000;}
+#portada .columna_principal .article .cintillo_monocle .contenido a {width: 117px; height: 34px; background: url(/elviajero/iconos/v1.x/v1.0/cintillos/monocle.jpg) no-repeat 0 4px;}
+#portada .cintillo_lonely_planet .contenido a:hover, #portada .cintillo_monocle .contenido a:hover { opacity: .8; filter: alpha(opacity=80);}
+.division_columnas .columna_principal .destacada .cintillo_monocle .contenido { margin: 12px 0 0; padding-right: 0;}
+
+/* TENTACIONES DE VERANO Hoy pincho para ti */
+
+.article .hoypinchoparati .contenido a {width: 168px; height: 13px; background-image: url(/iconos/v1.x/v1.0/cintillos/hoypinchoparati_secundarias.png);}
+.columna_tematica .article .hoypinchoparati .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/hoypinchoparati_columna.png);}
+
+
+
+
+/* JUEGOS OLIMPICOS */
+
+.article .juegos_olimpicos .contenido a {width: 151px; height: 20px; background-image: url(/iconos/v1.x/v1.0/cintillos/juegos-olimpicos.png);}
+.destacada_satelites .article .juegos_olimpicos {margin-top: -7px;}
+.destacada_satelites .article .juegos_olimpicos .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/juegos-olimpicos-satelites.png);}
+.columna_tematica .article .juegos_olimpicos .contenido a {width: 178px; background-image: url(/iconos/v1.x/v1.4/cintillos/juegos-olimpicos-columna.png); height: 25px;}
+.columna_principal .destacada .juegos_olimpicos { height:auto;}
+.division_columnas .columna_principal .destacada .juegos_olimpicos .contenido { margin-top:7px; margin-bottom: 8px;}
+.columna_secundaria .article .juegos_olimpicos { margin-bottom: 6px;}
+
+
+/* MEJOR PELICULA */
+
+.article .mejor_pelicula .contenido a {width: 203px; height: 22px; background-image: url(/iconos/v1.x/v1.0/cintillos/mejor_pelicula.png);}
+.ocio .article .mejor_pelicula .contenido a,
+.america_latina .article .mejor_pelicula .contenido a {background-image: url(/iconos/v1.x/v1.4/cintillos/mejor_pelicula_columna.png);}
+.destacada_satelites .article .mejor_pelicula .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/mejor_pelicula_satelites.png);}
+.columna_tematica .article .mejor_pelicula .contenido a {width: 203px; background-image: url(/iconos/v1.x/v1.4/cintillos/mejor_pelicula_columna.png); height: 22px;}
+.columna_principal .destacada .mejor_pelicula .contenido a {margin-top: -6px;}
+.columna_tematica .destacada .mejor_pelicula .contenido a {margin-top: 0;}
+.destacada_dos_columnas .principal .article:first-child .noticia .mejor_pelicula .contenido {margin-top: 10px;}
+
+/* CUMBRE HISPANO ALEMANA 2012 */
+
+.article .cumbre_hispano_alemana .contenido a {width: 315px; height: 16px; background-image: url(/iconos/v1.x/v1.0/cintillos/cumbre_hispano_alemana.png);}
+
+/* AS */
+.article .cintillo_as .contenido a {width: 25px; height: 20px; background: url(/iconos/v1.x/v1.4/cintillos/as.png) no-repeat 0 4px;}
+.columna_principal .destacada .cintillo_as .contenido a {width: 25px; height: 20px; background: url(/iconos/v1.x/v1.4/cintillos/as.png) no-repeat 0 0px; margin-top: -5px;}
+.contenedor_super_destacada .article .cintillo_as .contenido {  margin-top: -11px;} 
+.destacada_satelites .article .cintillo_as .contenido a {width: 50px; height: 17px; background-image: url(/iconos/v1.x/v1.4/cintillos/as_satelites.png);}
+.columna_tematica .article .cintillo_as .contenido a {width: 50px; background-image: url(/iconos/v1.x/v1.4/cintillos/as_columna.png); margin-top: 1px; height: 24px; background-position: 0 8px;}
+
+/* ELECCIONES GALLEGAS Y VASCAS 2012 */
+
+.article .elecciones_vascas_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_vascas_2012_418.png);height: 40px;width:auto;}
+.destacada_satelites .article .elecciones_vascas_2012{border:0;padding:0;margin:-8px 0 4px;height:auto;}
+.destacada_satelites .article .elecciones_vascas_2012 .contenido a {width: 140px; height:27px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_vascas_2012_satelites.png);}
+.contenedor_super_destacada .article .elecciones_vascas_2012 .contenido{margin-top:-12px;}
+.contenedor_super_destacada .article .elecciones_vascas_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_vascas_2012_apertura-grande.png);width:140px; height:27px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_vascas_2012{height:auto;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_vascas_2012 .contenido{height:auto;margin-top:-14px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_vascas_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_vascas_2012_apertura-grande.png);width:140px; height:27px;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_vascas_2012 .contenido{width:100%;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_vascas_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_vascas_2012_418.png);height: 40px;width:100%;}
+.columna_principal .destacada .elecciones_vascas_2012{height:auto;margin-bottom:5px;}
+.columna_principal .article .elecciones_vascas_2012 .contenido{width:100%;}
+.columna_tematica .article .elecciones_vascas_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_vascas_2012_tematica.png);width:140px; height:27px;}
+.columna_tematica .article.opinion .elecciones_vascas_2012 .contenido a{margin-bottom:3px;}
+.columna_tematica .article.colgante.opinion .elecciones_vascas_2012 .contenido a{margin-bottom:0px;}
+.caja.opinion .elecciones_vascas_2012 .contenido a, .caja.vinetas .elecciones_vascas_2012 .contenido a {display:block;}
+.columna_secundaria .caja .article .miniatura ~ .elecciones_vascas_2012 .contenido a{width:140px; height:27px;background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_vascas_2012_apertura-grande.png);}
+
+.article .elecciones_gallegas_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_gallegas_2012_418.png);height: 40px;width:auto;}
+.destacada_satelites .article .elecciones_gallegas_2012{border:0;padding:0;margin:-8px 0 4px;height:auto;}
+.destacada_satelites .article .elecciones_gallegas_2012 .contenido a {width: 140px; height:27px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_gallegas_2012_satelites.png);}
+.contenedor_super_destacada .article .elecciones_gallegas_2012 .contenido{margin-top:-12px;}
+.contenedor_super_destacada .article .elecciones_gallegas_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_gallegas_2012_apertura-grande.png);width:140px; height:27px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_gallegas_2012{height:auto;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_gallegas_2012 .contenido{height:auto;margin-top:-14px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_gallegas_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_gallegas_2012_apertura-grande.png);width:140px; height:27px;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_gallegas_2012 .contenido{width:100%;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_gallegas_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_gallegas_2012_418.png);height: 40px;width:100%;}
+.columna_principal .destacada .elecciones_gallegas_2012{height:auto;margin-bottom:5px;}
+.columna_principal .article .elecciones_gallegas_2012 .contenido{width:100%;}
+.columna_tematica .article .elecciones_gallegas_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_gallegas_2012_tematica.png);width:140px; height:27px;}
+.columna_tematica .article.opinion .elecciones_gallegas_2012 .contenido a{margin-bottom:3px;}
+.columna_tematica .article.colgante.opinion .elecciones_gallegas_2012 .contenido a{margin-bottom:0px;}
+.caja.opinion .elecciones_gallegas_2012 .contenido a, .caja.vinetas .elecciones_gallegas_2012 .contenido a {display:block;}
+.columna_secundaria .caja .article .miniatura ~ .elecciones_gallegas_2012 .contenido a{width:140px; height:27px;background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_gallegas_2012_apertura-grande.png);}
+
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_vascas_2012,
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_gallegas_2012{margin: 0 0 -12px;}
+.destacada_dos_columnas .secundaria .article:first-child .elecciones_vascas_2012,
+.destacada_dos_columnas .secundaria .article:first-child .elecciones_gallegas_2012 {margin: -14px 0 2px;}
+
+/* EUROPA 3 http://elpais.com/tag/c/db4419fd2adc17b1c313b5e2214be80c */
+
+.article .europa_3 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/europa_3.png);height: 20px;width:auto;}
+.destacada_satelites .article .europa_3{padding:0;margin:-6px 0 4px;height:auto;}
+.destacada_satelites .article .europa_3 .contenido a {width: 140px; height:22px; background-image: url(/iconos/v1.x/v1.0/cintillos/europa_3_satelites.png);margin-bottom:2px;}
+.contenedor_super_destacada .article .europa_3 .contenido{margin-top:-12px;}
+.contenedor_super_destacada .article .europa_3 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/europa_3.png);width:144px; height:20px;}
+.destacada_dos_columnas .principal .article:first-child .europa_3{height:auto;margin-top:0;}
+.destacada_dos_columnas .principal .article:first-child .europa_3 .contenido{height:auto;margin-top:-10px;}
+.destacada_dos_columnas .principal .article:first-child .europa_3 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/europa_3.png);width:144px; height:20px;}
+.destacada_dos_columnas .principal .article:first-child .noticia.europa_3 .contenido{width:100%;}
+.destacada_dos_columnas .principal .article:first-child .noticia.europa_3 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/europa_3.png);height: 20px;width:100%;}
+.columna_principal .destacada .europa_3{height:auto;margin-bottom:5px;}
+.columna_principal .article .europa_3 .contenido{width:100%;}
+.columna_tematica .article .europa_3 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/europa_3_tematica.png);width:158px; height:25px;}
+.columna_tematica .article.opinion .europa_3 .contenido a{margin-bottom:3px;}
+.columna_tematica .article.colgante.opinion .europa_3 .contenido a{margin-bottom:0px;}
+.caja.opinion .europa_3 .contenido a, .caja.vinetas .europa_3 .contenido a {display:block;}
+.columna_secundaria .caja .article .miniatura ~ .europa_3 .contenido a{width:144px; height:20px;background-image: url(/iconos/v1.x/v1.0/cintillos/europa_3.png);}
+#noticia .article .europa_3 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/europa_3_noticia.png);height:25px;} 
+
+/* Elecciones Autonómicas 21/10/1012  */
+
+.article .elecciones_21oct_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_atonomicas_21o_2012.png);height: 40px;width:auto;}
+.destacada_satelites .article .elecciones_21oct_2012{padding:0;margin:-5px 0 4px;height:auto;}
+.destacada_satelites .article .elecciones_21oct_2012 .contenido a {width: 140px; height:19px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_atonomicas_21o_2012_satelite.png);margin-bottom:3px;}
+.contenedor_super_destacada .article .elecciones_21oct_2012 .contenido{margin-top:-12px;}
+.contenedor_super_destacada .article .elecciones_21oct_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_atonomicas_21o_2012_2.png);width:186px; height:19px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_21oct_2012{height:auto;margin-top:0;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_21oct_2012 .contenido{height:auto;margin-top:-14px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_21oct_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_atonomicas_21o_2012_2.png);width:186px; height:19px;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_21oct_2012 .contenido{width:100%;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_21oct_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_atonomicas_21o_2012.png);height: 40px;width:100%;}
+.columna_principal .destacada .elecciones_21oct_2012{height:auto;margin-bottom:5px;}
+.columna_principal .article .elecciones_21oct_2012 .contenido{width:100%;}
+.columna_tematica .article .elecciones_21oct_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_atonomicas_21o_2012_tematica.png);width:186px; height:19px;}
+.columna_tematica .article.opinion .elecciones_21oct_2012 .contenido a{margin-bottom:3px;}
+.columna_tematica .article.colgante.opinion .elecciones_21oct_2012 .contenido a{margin-bottom:0px;}
+.caja.opinion .elecciones_21oct_2012 .contenido a, .caja.vinetas .elecciones_21oct_2012 .contenido a {display:block;}
+.columna_secundaria .caja .article .miniatura ~ .elecciones_21oct_2012 .contenido a{width:186px; height:19px;background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_atonomicas_21o_2012_2.png);}
+#noticia .article .elecciones_21oct_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_atonomicas_21o_2012_2.png);height:25px;} 
+
+/* EP MIX CULTURA*/
+
+.division_columnas > .columna_principal .article .ep_mix{width:auto;height:auto;}
+.division_columnas > .columna_principal .article .ep_mix .contenido{width:auto;height:auto;}
+.division_columnas > .columna_principal .article .ep_mix .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/ep_mix_418.png);height: 31px;width:418px;}
+.division_columnas > .columna_principal .destacada .ep_mix .contenido a{padding:0;margin:0 0 5px 0;}
+
+.division_columnas > .columna_secundaria .article .ep_mix{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .ep_mix .contenido{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .ep_mix .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/ep_mix_418.png);height: 31px;width:378px;}
+.division_columnas > .columna_secundaria .destacada .ep_mix .contenido a{margin:0 0 5px 0;}
+
+.division_columnas > .columna_secundaria .columna_tematica .article .ep_mix{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .columna_tematica .article .ep_mix .contenido a{background-image:url(/iconos/v1.x/v1.0/cintillos/ep_mix_columna_tematica.png);}
+.division_columnas > .columna_secundaria .caja .article .miniatura ~ .ep_mix .contenido a {width: 186px;}
+
+/* Elecciones EEUU 2012  */
+
+.article .elecciones_eeuu_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_eeuu_blanco.png);height: 34px;width:auto;}
+.destacada_satelites .article .elecciones_eeuu_2012{padding:0;margin:0 0 4px;height:auto;}
+.destacada_satelites .article .elecciones_eeuu_2012 .contenido a {width: 140px; height:11px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_eeuu_mini.png);margin-bottom:6px;}
+.contenedor_super_destacada .article .elecciones_eeuu_2012 .contenido{margin-top:-15px;}
+.contenedor_super_destacada .article .elecciones_eeuu_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_eeuu_blanco.png);width:221px; height:29px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_eeuu_2012{ height:12px; margin-top:-18px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_eeuu_2012 .contenido{height:auto;margin-top:-11px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_eeuu_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_eeuu_blanco.png);width:221px; height:29px;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_eeuu_2012 .contenido{width:100%;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_eeuu_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_eeuu_blanco.png);height: 29px;width:100%;}
+.columna_principal .destacada .elecciones_eeuu_2012{height:auto;margin-bottom:5px;}
+.columna_principal .article .elecciones_eeuu_2012 .contenido{width:100%;}
+.columna_tematica .article .elecciones_eeuu_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_eeuu_tematica.png); height:13px;}
+.columna_tematica .article.opinion .elecciones_eeuu_2012 .contenido a{margin-bottom:3px;}
+.columna_tematica .article.colgante.opinion .elecciones_eeuu_2012 .contenido a{margin-bottom:0px;}
+.caja.opinion .elecciones_21oct_2012 .contenido a, .caja.vinetas .elecciones_eeuu_2012 .contenido a {display:block;}
+#noticia .article .elecciones_eeuu_2012 .contenido a{ margin-bottom:0; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_eeuu_blanco.png);height:29px;} 
+
+/* Elecciones Catalanas 2012  */
+
+.article .elecciones_catalanas_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_catalanas_2012_418.png);height: 40px;width:auto;}
+.destacada_satelites .article .elecciones_catalanas_2012{border:0;padding:0;margin:-8px 0 4px;height:auto;}
+.destacada_satelites .article .elecciones_catalanas_2012 .contenido a {width: 140px; height:27px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_catalanas_2012_satelites.png);}
+.contenedor_super_destacada .article .elecciones_catalanas_2012 .contenido{margin-top:-12px;}
+.contenedor_super_destacada .article .elecciones_catalanas_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_catalanas_2012_tematica.png);width:140px; height:27px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_catalanas_2012{height:auto;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_catalanas_2012 .contenido{height:auto;margin-top:-14px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_catalanas_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_catalanas_2012_tematica.png);width:140px; height:27px;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_catalanas_2012 .contenido{width:100%;}
+.destacada_dos_columnas .principal .article:first-child .noticia.elecciones_catalanas_2012 .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_catalanas_2012_418.png);height: 40px;width:100%;}
+.columna_principal .destacada .elecciones_catalanas_2012{height:auto;margin-bottom:5px;}
+.columna_principal .article .elecciones_catalanas_2012 .contenido{width:100%;}
+.columna_tematica .article .elecciones_catalanas_2012 .contenido a{background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_catalanas_2012_tematica.png);width:140px; height:27px;}
+.columna_tematica .article.opinion .elecciones_catalanas_2012 .contenido a{margin-bottom:3px;}
+.columna_tematica .article.colgante.opinion .elecciones_catalanas_2012 .contenido a{margin-bottom:0px;}
+.caja.opinion .elecciones_catalanas_2012 .contenido a, .caja.vinetas .elecciones_catalanas_2012 .contenido a {display:block;}
+.columna_secundaria .caja .article .miniatura ~ .elecciones_catalanas_2012 .contenido a{width:140px; height:27px;background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_catalanas_2012_tematica.png);} 
+#noticia .article .elecciones_catalanas_2012 .contenido a{ margin-bottom:0; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_catalanas_2012_418.png);height:40px;} 
+
+
+/* The Furious Sessions */
+.division_columnas .columna_principal .destacada .furious_sessions .contenido, .bloque_inferior .columna_principal .destacada .furious_sessions .contenido { margin-top: -8px;}
+
+.division_columnas > .columna_principal .article .furious_sessions{width:auto;height:auto;}
+.division_columnas > .columna_principal .article .furious_sessions .contenido{width:160px;height:auto;}
+.division_columnas > .columna_principal .article .furious_sessions .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/the_furious_sessions_418.png);height: 18px;}
+.division_columnas > .columna_principal .destacada .furious_sessions .contenido a{padding:0;margin:0 0 7px;}
+
+.division_columnas > .columna_secundaria .article .furious_sessions{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .furious_sessions .contenido{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .furious_sessions .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/the_furious_sessions_418.png);height: 18px;}
+.division_columnas > .columna_secundaria .destacada .furious_sessions .contenido a{margin:0 0 7px 0;}
+
+.division_columnas > .columna_secundaria .columna_tematica .article .furious_sessions{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .columna_tematica .article .furious_sessions .contenido { width:160px; margin-top:0;}
+.division_columnas > .columna_secundaria .columna_tematica .article .furious_sessions .contenido a{background-image:url(/iconos/v1.x/v1.0/cintillos/the_furious_sessions_tematica.png); height:14px;}
+.division_columnas > .columna_secundaria .caja .article .miniatura ~ .furious_sessions .contenido a {width: auto;}
+
+#noticia .article .furious_sessions .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/the_furious_sessions_418.png); width:150px; height: 18px;}
+
+/* EL PAIS TV */
+
+.article .cintillo_elpais_tv .contenido a, .columna_secundaria .caja .destacada .article .cintillo_elpais_tv .contenido a {width: 105px; height: 16px; background-image: url(/iconos/v1.x/v1.0/cintillos/elpais_tv_secundarias_2.png);}
+.columna_secundaria .caja .article .cintillo_elpais_tv .contenido a {width: 71px; height: 12px; background-image: url(/iconos/v1.x/v1.0/cintillos/elpais_tv_satelites.png);}
+.columna_tematica .article .cintillo_elpais_tv .contenido a {width: 123px;background-image: url(/iconos/v1.x/v1.4/cintillos/elpais_tv_columna_tematica_3.png);}
+.destacada_satelites .article .cintillo_elpais_tv .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.0/cintillos/elpais_tv_satelites.png); background-position: 0 3px;}
+
+/* ROLLING STONE */
+.division_columnas .columna_principal .destacada .rolling_stone .contenido, .bloque_inferior .columna_principal .destacada .rolling_stone .contenido { margin-top: -8px;}
+.division_columnas > .columna_principal .destacada .rolling_stone {border-top: 1px solid #FF360C!important;}
+.division_columnas > .columna_principal .article .rolling_stone{width:auto;height:auto;}
+.division_columnas > .columna_principal .article .rolling_stone .contenido{width:100px;height:auto;}
+.division_columnas > .columna_principal .article .rolling_stone .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/rolling_stone.png);height: 21px;}
+.division_columnas > .columna_principal .destacada .rolling_stone .contenido a{padding:0;margin:0 0 7px;}
+
+.division_columnas > .columna_secundaria .article .rolling_stone{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .rolling_stone .contenido{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .rolling_stone .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/rolling_stone.png);height: 21px;}
+.division_columnas > .columna_secundaria .destacada .rolling_stone .contenido a{margin:0 0 7px 0;}
+
+.division_columnas > .columna_secundaria .columna_tematica .article .rolling_stone{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .columna_tematica .article .rolling_stone .contenido { width:100px; margin-top:0;}
+.division_columnas > .columna_secundaria .columna_tematica .article .rolling_stone .contenido a{background-image:url(/iconos/v1.x/v1.0/cintillos/rolling_stone_tematica.png); height:21px;margin-bottom:0;}
+.division_columnas > .columna_secundaria .caja .article .miniatura ~ .rolling_stone .contenido a {width: auto;}
+
+#noticia .article .rolling_stone{border-top:1px solid #FF360C!important;padding-top:5px;}
+#noticia .article .rolling_stone .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/rolling_stone.png); width:100px; height: 21px;} 
+
+/* Cinemania */
+.division_columnas .columna_principal .destacada .cinemania .contenido, .bloque_inferior .columna_principal .destacada .cinemania .contenido { margin-top: -8px;}
+.division_columnas > .columna_principal .destacada .cinemania {border-top: 1px solid #111111!important;}
+.division_columnas > .columna_principal .article .cinemania{width:auto;height:auto;}
+.division_columnas > .columna_principal .article .cinemania .contenido{width:81px;height:auto;}
+.division_columnas > .columna_principal .article .cinemania .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/cinemania.png);height: 17px;}
+.division_columnas > .columna_principal .destacada .cinemania .contenido a{padding:0;margin:0 0 7px;}
+
+.division_columnas > .columna_secundaria .article .cinemania{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .cinemania .contenido{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .cinemania .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/cinemania.png);height: 17px;}
+.division_columnas > .columna_secundaria .destacada .cinemania .contenido a{margin:0 0 7px 0;}
+
+.division_columnas > .columna_secundaria .columna_tematica .article .cinemania{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .columna_tematica .article .cinemania .contenido { width:81px; margin-top:0;}
+.division_columnas > .columna_secundaria .columna_tematica .article .cinemania .contenido a{background-image:url(/iconos/v1.x/v1.0/cintillos/cinemania_tematica.png); height:17px;margin-bottom:0;}
+.division_columnas > .columna_secundaria .caja .article .miniatura ~ .cinemania .contenido a {width: auto;}
+
+#noticia .article .cinemania{border-top:1px solid #111111!important;padding-top:5px;}
+#noticia .article .cinemania .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/cinemania.png); width:81px; height: 21px;} 
+
+/* exclusivo */
+.division_columnas .columna_principal .destacada .exclusivo .contenido, .bloque_inferior .columna_principal .destacada .exclusivo .contenido { margin-top:-1px;padding-right:0;}
+.division_columnas > .columna_principal .destacada .exclusivo {border-top: 1px solid #DE2A70!important;}
+.division_columnas > .columna_principal .article .exclusivo{width:auto;height:auto;}
+.division_columnas > .columna_principal .article .exclusivo .contenido{width:81px;height:auto;}
+.division_columnas > .columna_principal .article .exclusivo .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.4/cintillos/exclusivo.png);height: 17px;}
+.division_columnas > .columna_principal .destacada .exclusivo .contenido a{padding:0;margin:0 0 7px;}
+
+.division_columnas > .columna_secundaria .article .exclusivo{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .exclusivo .contenido{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .article .exclusivo .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.4/cintillos/exclusivo.png);height: 17px;}
+.division_columnas > .columna_secundaria .destacada .exclusivo .contenido a{margin:0 0 7px 0;}
+
+.division_columnas > .columna_secundaria .columna_tematica .article .exclusivo{width:auto;height:auto;}
+.division_columnas > .columna_secundaria .columna_tematica .article .exclusivo .contenido { width:81px; margin-top:0;}
+.division_columnas > .columna_secundaria .columna_tematica .article .exclusivo .contenido a{background-image:url(/iconos/v1.x/v1.4/cintillos/exclusivo.png); height:16px;margin-bottom:0;}
+.division_columnas > .columna_secundaria .caja .article .miniatura ~ .exclusivo .contenido a {width: auto;}
+
+#noticia .article .exclusivo{border-top:1px solid #DE2A70!important;padding-top:0px;}
+#noticia .article .exclusivo .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/exclusivo.png); width:81px; height: 16px;} 
+
+/* SONAR */
+.destacada_dos_columnas .principal .article .sonar .contenido {margin-top: -11px;}
+.article .sonar .contenido a {width: 62px; height: 20px; background-image: url(/iconos/v1.x/v1.0/cintillos/sonar.png?=1233);}
+.america_latina .article .sonar .contenido a {background-image: url(/iconos/v1.x/v1.0/cintillos/sonar.png?=1233);}
+.destacada_satelites .article .sonar .contenido a {width: 62px; background-image: url(/iconos/v1.x/v1.0/cintillos/sonar.png?=1233);}
+.columna_tematica .article .sonar .contenido a {width: 62px; background-image: url(/iconos/v1.x/v1.0/cintillos/sonar.png?=1233); height: 20px;}
+#noticia .article .sonar .contenido a{ display:block;background-image: url(/iconos/v1.x/v1.0/cintillos/sonar.png); width:62px; height: 20px;} 
+
+/* CHINALEAKS */
+.columna_principal .cintillo_chinaleaks a{background:#fff url(/iconos/v1.x/v1.0/cintillos/cintillo_chinaleaks.png) 0 0 no-repeat;height:54px;text-indent:-9999px;display:block;width:418px;}
+.division_columnas .columna_principal .cintillo_chinaleaks{margin-top:-1px;}
+.division_columnas .columna_principal .destacada .cintillo_chinaleaks{margin-top:0;margin-bottom:4px;border-top:none;}
+.division_columnas .columna_principal .article .cintillo_chinaleaks{border-top:none;}
+.division_columnas .columna_principal .article .cintillo_chinaleaks .contenido{margin:0;}
+.division_columnas .columna_principal .destacada .cintillo_chinaleaks .contenido{margin:0;padding:0;}
+.columna_principal .destacada .cintillo_chinaleaks{border:none;background: url(/iconos/v1.x/v1.0/cintillos/cintillo_chinaleaks.png) 0 0 no-repeat;height:auto;}
+
+/* PLANETA FUTURO */
+.article .planeta_futuro .contenido a {width: 126px; height: 16px; background-image: url(/iconos/v1.x/v1.0/cintillos/planeta_futuro.png);}
+.division_columnas .columna_principal .destacada .cintillo_grafico .contenido, .bloque_inferior .columna_principal .destacada .planeta_futuro .contenido { background-color: #f5f5f5F;margin: 0;padding-right: 5px;}
+.destacada_dos_columnas .principal .article:first-child .planeta_futuro { border-top-color: #DDDDDD; height: 40px; text-align: left;}
+.columna_principal .destacada .planeta_futuro { background-color: transparent; background-image: none; display: block; margin: 0; padding: 3px 0 0 0; border: none;}
+.destacada_dos_columnas .principal .article:first-child .planeta_futuro .contenido { background-color: #f5f5f5; color: #77736B; display: inline-block; font: bold 12px/18px Tahoma,Arial,Helvetica,Garuda,sans-serif; height: 20px; margin: 18px 0 0; padding: 0; text-transform: uppercase;}
+
+
+/* PAIS RECOMIENDA */
+.article .pais_recomienda .contenido a {width: 126px; height: 16px; background-image: url(/iconos/v1.x/v1.0/cintillos/pais_recomienda.png);}
+.division_columnas .columna_principal .destacada .cintillo_grafico .contenido, .bloque_inferior .columna_principal .destacada .pais_recomienda .contenido { background-color: #f5f5f5;margin: 0;padding-right: 5px;}
+.destacada_dos_columnas .principal .article:first-child .pais_recomienda { border-top-color: #DDDDDD; height: 40px; text-align: left;}
+.columna_principal .destacada .pais_recomienda { background-color: transparent; background-image: none; display: block; height: 32px; margin: 0; padding: 0;}
+.destacada_dos_columnas .principal .article:first-child .pais_recomienda .contenido { background-color: #f5f5f5; color: #77736B; display: inline-block; font: bold 12px/18px Tahoma,Arial,Helvetica,Garuda,sans-serif; height: 20px; margin: 18px 0 0; padding: 0; text-transform: uppercase;}
+
+/* PUNTO DE MIRA */
+.article .punto_de_mira .contenido a {width: 160px; height: 20px; background-image: url(/iconos/v1.x/v1.4/cintillos/punto-mira-cintillo-col1.png); background-color:transparent; }
+.article .punto_de_mira span.contenido {width: 160px; height: 20px; text-indent:-9000px; display:block; overflow:hidden; background-image: url(/iconos/v1.x/v1.4/cintillos/punto-mira-cintillo-col1.png); background-color:transparent; }
+.destacada_satelites .article .punto_de_mira .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.4/cintillos/punto-mira-cintillo-col1.png);background-color:transparent;}
+
+/* A FONDO */
+.article .a_fondo .contenido a {width: 160px; height: 20px; background-image: url(/iconos/v1.x/v1.4/cintillos/a-fondo-cintillo-col1.png); background-color:transparent; }
+.article .a_fondo span.contenido {width: 160px; height: 20px; text-indent:-9000px; display:block; overflow:hidden; background-image: url(/iconos/v1.x/v1.4/cintillos/a-fondo-cintillo-col1.png); background-color:transparent; }
+.destacada_satelites .article .a_fondo .contenido a {width: 140px; background-image: url(/iconos/v1.x/v1.4/cintillos/a-fondo-cintillo-col1.png);background-color:transparent;}
+
+/* AGENCIA PUBLICA */
+.article .agencia_publica .contenido a {width: 47px; height: 24px; background-image: url(http://ep01.epimg.net/iconos/v1.x/v1.4/cintillos/cintillo_agencia_publica.png); background-color:transparent; background-repeat:no-repeat; border-top: 1px solid #222;}
+.destacada_satelites .article .agencia_publica .contenido a {width:42px; height: 12px; background-image: url(http://ep01.epimg.net/iconos/v1.x/v1.4/cintillos/agencia_publica_satelites.png);background-color:transparent;background-repeat:no-repeat; border-top: 1px solid #222;}
+.destacada_dos_columnas .principal .article:first-child .agencia_publica {height: 41px;}
+.columna_principal .article .antetitulo.agencia_publica {padding-top:0px;}
+.columna_principal .article .cintillo_grafico.agencia_publica{border-top: solid 1px #222;}
+.division_columnas .columna_principal .article .cintillo_grafico .contenido, .bloque_inferior .columna_principal .article .cintillo_grafico.agencia_publica .contenido{margin-top:0px;}
+
+/* LAVA JATO */
+.article .lava_jato .contenido a {width: 145px; height: 16px; background-image: url(/iconos/v1.x/v1.4/cintillos/lava_jato.png);}
+.division_columnas .columna_principal .destacada .cintillo_grafico .contenido, .bloque_inferior .columna_principal .destacada .lava_jato .contenido { background-color: #f5f5f5F;margin: 0;padding-right: 5px;}
+.destacada_dos_columnas .principal .article:first-child .lava_jato { border-top-color: #DDDDDD; height: 40px; text-align: left;}
+.columna_principal .destacada .lava_jato { background-color: transparent; background-image: none; display: block; margin: 0; padding: 3px 0 0 0; border: none;}
+.destacada_dos_columnas .principal .article:first-child .lava_jato .contenido { background-color: #f5f5f5; color: #77736B; display: inline-block; font: bold 12px/18px Tahoma,Arial,Helvetica,Garuda,sans-serif; height: 20px; margin: 18px 0 0; padding: 0; text-transform: uppercase;}
+
+/* ELECCIONES AUTONOMICAS */
+.article .elecciones_autonomicas_2015 .contenido a {width: 126px; height: 16px; background-image: url(/iconos/v1.x/v1.0/cintillos/elecciones_autonomicas_2015.png);}
+.division_columnas .columna_principal .destacada .cintillo_grafico .contenido, .bloque_inferior .columna_principal .destacada .elecciones_autonomicas_2015 .contenido { background-color: #f5f5f5F;margin: 0;padding-right: 5px;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_autonomicas_2015 { border-top-color: #DDDDDD; height: 40px; text-align: left;}
+.columna_principal .destacada .elecciones_autonomicas_2015 { background-color: transparent; background-image: none; display: block; margin: 0; padding: 3px 0 0 0; border: none;}
+.destacada_dos_columnas .principal .article:first-child .elecciones_autonomicas_2015 .contenido { background-color: #f5f5f5; color: #77736B; display: inline-block; font: bold 12px/18px Tahoma,Arial,Helvetica,Garuda,sans-serif; height: 20px; margin: 18px 0 0; padding: 0; text-transform: uppercase;}
+
+
+/* IDEAS */
+.article .ideas .contenido a {width: 100px; height: 26px; background-image: url(/iconos/v1.x/v1.4/cintillos/ideas.png); background-color:transparent; }
+.article .ideas span.contenido {width: 100px; height: 26px; text-indent:-9000px; display:block; overflow:hidden; background-image: url(/iconos/v1.x/v1.4/cintillos/ideas.png); background-color:transparent; }
+.destacada_satelites .article .ideas .contenido a {width: 100px; background-image: url(/iconos/v1.x/v1.4/cintillos/ideas.png);background-color:transparent;}
+
+/* EPV */
+.article .cintillo_epv .contenido a {width: 107px; height: 25px; background: url(/iconos/v1.x/v1.4/cintillos/epv.jpg) no-repeat center; }
+.article .cintillo_epv span.contenido {width: 107px; height: 25px; text-indent:-9000px; display:block; overflow:hidden; background: url(/iconos/v1.x/v1.4/cintillos/epv.jpg) no-repeat center;  }
+.destacada_satelites .article .cintillo_epv .contenido a {width: 107px; background: url(/iconos/v1.x/v1.4/cintillos/epv.jpg) no-repeat center; }
+
+/* JOTDOWN */
+.article .cintillo_jotdown .contenido a {width: 100px; height: 25px; background: url(/iconos/v1.x/v1.4/cintillos/jotdown.png) no-repeat center; }
+.article .cintillo_jotdown span.contenido {width: 100px; height: 25px; text-indent:-9000px; display:block; overflow:hidden; background: url(/iconos/v1.x/v1.4/cintillos/jotdown.png) no-repeat center;  }
+.destacada_satelites .article .cintillo_jotdown .contenido a {width: 100px; background: url(/iconos/v1.x/v1.4/cintillos/jotdown.png) no-repeat center; }
+
+
+/* ELECCIONES CATALANAS */
+.article .cintillo_elecciones_catalanas .contenido a {width: 127px; height: 16px; background: url(/iconos/v1.x/v1.4/cintillos/elecciones_catalanas.jpg) no-repeat center; }
+.article .cintillo_elecciones_catalanas span.contenido {width: 127px; height: 16px; text-indent:-9000px; display:block; overflow:hidden; background: url(/iconos/v1.x/v1.4/cintillos/elecciones_catalanas.jpg) no-repeat center;  }
+.destacada_satelites .article .cintillo_elecciones_catalanas .contenido a {width: 127px; background: url(/iconos/v1.x/v1.4/cintillos/elecciones_catalanas.jpg) no-repeat center; }
+
+
+/* ARTE LATINOAMERICA */
+.contenedor_principal .columna_principal .article .arte_latinoamerica{background: #f9faf5;background-image: none;}
+.columna_principal .article .arte_latinoamerica .contenido a {width: 227px; height: 25px; background-image: url(/iconos/v1.x/v1.4/cintillos/arte-latinoamerica.png); background-color:transparent; }
+.columna_principal .article .arte_latinoamerica span.contenido {width: 227px; height: 25px; text-indent:-9000px; display:block; overflow:hidden; background-image: url(/iconos/v1.x/v1.4/cintillos/arte-latinoamerica.png); background-color:transparent; }
+.columna_principal .destacada_satelites .article .arte_latinoamerica .contenido a {width: 140px; height: 30px; background-image: url(/iconos/v1.x/v1.4/cintillos/arte-iberoamericano-cintillo.png);background-color:transparent;}
+
+
+/* AS CARAS DA CRISE */
+.article .as_caras_da_crise .contenido a {width: 126px; height: 19px; background: url(/iconos/v1.x/v1.4/cintillos/cintillo_as-caras-da-crise.jpg) no-repeat center; }
+.article .as_caras_da_crise span.contenido {width: 126px; height: 19px; text-indent:-9000px; display:block; overflow:hidden; background: url(/iconos/v1.x/v1.4/cintillos/cintillo_as-caras-da-crise.jpg) no-repeat center;  }
+.destacada_satelites .article .as_caras_da_crise .contenido a {width: 126px; background: url(/iconos/v1.x/v1.4/cintillos/cintillo_as-caras-da-crise.jpg) no-repeat center; }
+
+
+/* ELECCIONES EEUU 2016 */
+.article .cintillo_elecciones_eeuu_2016 .contenido a {width: 206px; height: 13px; background: url(/iconos/v1.x/v1.4/cintillos/elecciones_eeuu_2016.png) no-repeat 0 0;}
+.columna_principal .destacada .cintillo_elecciones_eeuu_2016 .contenido a {width: 210px; height: 13px; background: url(/iconos/v1.x/v1.4/cintillos/elecciones_eeuu_2016.png) no-repeat 0 0; margin-top: -5px;     background-color: #FFF;}
+.contenedor_super_destacada .article .cintillo_elecciones_eeuu_2016 .contenido {  margin-top: -11px;} 
+.destacada_satelites .article .cintillo_elecciones_eeuu_2016 .contenido a {width: 206px; height: 13px; background-image: url(/iconos/v1.x/v1.4/cintillos/elecciones_eeuu_2016.png);}
+.columna_tematica .article .cintillo_elecciones_eeuu_2016 .contenido a {width: 206px; background-image: url(/iconos/v1.x/v1.4/cintillos/elecciones_eeuu_2016.png); margin-top: 1px; height: 13px;}
+
+
+/* PROCESO DE PAZ EN COLOMBIA */
+.article .proceso_paz .contenido a {width: 170px; height: 14px; background: url(/estaticos/2015/11/proceso-paz/img/proceso-paz-cintillo.png) no-repeat center; }
+.article .proceso_paz span.contenido {width: 170px; height: 14px; text-indent:-9000px; display:block; overflow:hidden; background: url(/estaticos/2015/11/proceso-paz/img/proceso-paz-cintillo.png) no-repeat center;  }
+.destacada_satelites .article .proceso_paz .contenido a {width: 170px; background: url(/estaticos/2015/11/proceso-paz/img/proceso-paz-cintillo.png) no-repeat center; }
+
+
+/* ELPAÍS DEBATE 20D*/
+.article .cintillo_elpaisdebate_20d .contenido a {width: 144px; height: 14px; background: url(/iconos/v1.x/v1.4/cintillos/elpaisdebate_20d.png) no-repeat 0 0;}
+.columna_principal .destacada .cintillo_elpaisdebate_20d .contenido a {width: 144px; height: 14px; background: url(/iconos/v1.x/v1.4/cintillos/elpaisdebate_20d.png) no-repeat 0 0; margin-top: -5px;     background-color: #FFF;}
+.contenedor_super_destacada .article .cintillo_elpaisdebate_20d .contenido {  margin-top: -11px;} 
+.destacada_satelites .article .cintillo_elpaisdebate_20d .contenido a {width: 144px; height: 14px; background-image: url(/iconos/v1.x/v1.4/cintillos/elpaisdebate_20d.png);}
+.columna_tematica .article .cintillo_elpaisdebate_20d .contenido a {width: 144px; background-image: url(/iconos/v1.x/v1.4/cintillos/elpaisdebate_20d.png); margin-top: 1px; height: 14px;}
+
+
+/* ELECCIONES 20D 2015*/
+.article .cintillo_elecciones_20d_2015 .contenido a {width: 127px; height: 14px; background: url(/iconos/v1.x/v1.4/cintillos/elecciones_20d_2015.png) no-repeat 0 0;}
+.columna_principal .destacada .cintillo_elecciones_20d_2015 .contenido a {width: 127px; height: 14px; background: url(/iconos/v1.x/v1.4/cintillos/elecciones_20d_2015.png) no-repeat 0 0; margin-top: -5px;     background-color: #FFF;}
+.contenedor_super_destacada .article .cintillo_elecciones_20d_2015 .contenido {  margin-top: -11px;} 
+.destacada_satelites .article .cintillo_elecciones_20d_2015 .contenido a {width: 127px; height: 14px; background-image: url(/iconos/v1.x/v1.4/cintillos/elecciones_20d_2015.png);}
+.columna_tematica .article .cintillo_elecciones_20d_2015 .contenido a {width: 127px; background-image: url(/iconos/v1.x/v1.4/cintillos/elecciones_20d_2015); margin-top: 1px; height: 14px;}

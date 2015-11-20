@@ -1,0 +1,8 @@
+.caja_verne {border-width: 1px 1px 1px 1px;border-color: #ebebeb #ebebeb #ebebeb #ebebeb; margin-top:30px;}
+.caja_verne h3 a, .caja_verne h3 .sin_enlace{ background: url(http://ep01.epimg.net/estaticos/2014/12/verne/verne_caja.png) no-repeat center center #03b282;height: 38px;overflow: hidden;padding: 0;text-indent: -9000px;width: 100%; margin-top:-10px; display:block;}
+.caja_verne h3 a:hover{opacity:.8;filter: alpha(opacity=80);}
+.caja_verne .apoyos ul li a{color:#03b282;}
+
+
+.caja_verne h3 a span, .caja_verne h3 .sin_enlace span{font-weight:bold;}
+.caja_verne h4 a {font-weight:normal;padding: 2px 0 2px 0;}
